@@ -9,3 +9,4 @@
 | 2024-02-04 | 랜덤, array, slice, map, struct, 조건문, 반복문, function, method, defer, file 입출력 |
 | 2024-02-04 | 병렬 프로그래밍, go routine, waiting group, mutex lock, channel                   |
 | 2024-02-05 | get api 응답 파싱, url 다루기, 실습에 사용할 node 로컬 웹서버 띄우기                            |
+| 2024-02-06 | api 요청 서버, api 제공 서버(gorilla mux 사용), json 다루기                             |
