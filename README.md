@@ -10,3 +10,4 @@
 | 2024-02-04 | 병렬 프로그래밍, go routine, waiting group, mutex lock, channel                   |
 | 2024-02-05 | get api 응답 파싱, url 다루기, 실습에 사용할 node 로컬 웹서버 띄우기                            |
 | 2024-02-06 | api 요청 서버, api 제공 서버(gorilla mux 사용), json 다루기                             |
+| 2024-02-08 | mongodb 연결, mongo-driver 사용해 CRUD API 개발                                    |
